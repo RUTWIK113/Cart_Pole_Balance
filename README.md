@@ -1,6 +1,6 @@
 # CartPole Balance - OpenAI Gym - Reinforcement Learning
 
-**Complete Video Tutorial:** https://youtu.be/7SVv07QXO5M
+
 
 ## Project Information
 
